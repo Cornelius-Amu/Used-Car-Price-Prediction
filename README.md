@@ -1,4 +1,8 @@
 # Used-Car-Price-Prediction
+
+![Image](https://github.com/user-attachments/assets/e11e3164-61ca-49a8-81f4-a75839ee05a9)
+
+
 The dataset, sourced through web scraping from the well-known U.S. used car marketplace Truecars.com, comprises of six columns that can be feature engineered into several more . This dataset is particularly suitable for constructing regression models.
 
 # Used Car Price Prediction Dataset
