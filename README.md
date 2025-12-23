@@ -94,3 +94,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to modify any sections as needed, and replace placeholder information such as the dataset download link with actual URLs or file paths.
+i am open to collaborate on data analyisi and visualization rlated lprojects. you an reach me
